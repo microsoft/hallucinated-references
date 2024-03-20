@@ -1,14 +1,17 @@
-# Project
+# Do Language Models Know When They're Hallucinating References?
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repository contains [code](src) to replicate the experiments in [Do Language Models Know When They're Hallucinating References?](https://arxiv.org/pdf/2110.01593.pdf) 
 
-As the maintainer of this project, please make a few updates:
+```
+@inproceedings{agrawal2024do,
+  title={Do Language Models Know When They're Hallucinating References?},
+  author={Ayush Agrawal and Mirac Suzgun and Lester Mackey and Adam Tauman Kalai},
+  booktitle={Findings of the Association for Computational Linguistics: EACL 2024},
+  year={2024}
+}
+```
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+as well as the [results](data) of those experiments.
 
 ## Contributing
 
